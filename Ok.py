@@ -1,0 +1,2 @@
+import writ
+writ.main()
